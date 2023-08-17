@@ -35,6 +35,8 @@ Below are the softwares necessary for your projects. Download the Setup for the 
     -- Docklight
     -- Logic analyser
     -- SimcomSPT Tool
+    -- Pickit2
+    -- .NET FRAMEWORK   (only for Pickit2)
 
 
 #### For Hardware department:
@@ -62,6 +64,8 @@ Below are the softwares necessary for your projects. Download the Setup for the 
 - [SimcomSPT]()
 - [Microchip Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
 - [OrCAD Capture](https://downloadly.net/2020/06/779/03/orcad/20/?#/779-cadence-172305012514.html)
+- [Pickit2](https://www.microchip.com/en-us/development-tool/pg164120#Software)
+- [.NET FRAMEWORK](https://www.microsoft.com/en-us/download/details.aspx?id=6041)
 
 
 ## Installation Videos
@@ -83,6 +87,8 @@ Below are the softwares necessary for your projects. Download the Setup for the 
 #### NOTE: 
 * For Microchip Studio keep the checkbox by default
 * For SIMcomSPT collect it from pendrive.
+* For Pickit2 download the neccessary softwares. For Pickit3 it is inbulit in MPLABxIDE.
+* Install .NET FRAMEWORK from the able link only if your using Pickit2.
 
 
 ## Used By
