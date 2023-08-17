@@ -13,7 +13,7 @@ Let's get started.
 - Create an account in [JIRA](https://www.atlassian.com/try/cloud/signup?bundle=jira-software&edition=free&signupSource=jiraBundleAsp) and plan your daily tasks and mission to track your progress.
 - Create an account in [BitBucket](https://bitbucket.org/product) and learn how to use it for version control.
 - Download and install the softwares necessary for your respective department. Links and video references are given below.
-- Go through the [Task_list](https://docs.google.com/spreadsheets/d/1VjKujVeYeQZ5gpVNy1lzCVk4_3llleNUFeERHWqCtvY/edit?usp=sharing) and insert your NAME and update your status on your task.
+- Go through the [Task_list](https://docs.google.com/spreadsheets/d/1b6nkk7GqHcgimqPw0XJNZECMPPu0tXiT_T-1Bq01LjU/edit?usp=sharing) and insert your NAME and update your status on your task.
 - For c programming you can refer [w3school](https://www.w3schools.com/c/index.php) or [tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.htm) or any other website which is comfortable for you.
 - For PIC programing you can refer [deepblueembedded](https://deepbluembedded.com/pic-programming-tutorials/) or any other website which is comfortable for you.
 
