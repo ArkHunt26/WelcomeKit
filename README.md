@@ -30,7 +30,7 @@ Below are the softwares necessary for your projects. Download the Setup for the 
     -- BitBucket
     -- CodeBlocks
     -- MPLAB x IDE
-    -- STM32CudeIDE
+    -- STM32CubeIDE
     -- Arduino IDE
     -- Proteus
     -- Docklight
@@ -57,7 +57,7 @@ Below are the softwares necessary for your projects. Download the Setup for the 
 - [BitBucket](https://bitbucket.org/product)
 - [CodeBlocks](https://www.codeblocks.org/downloads/)
 - [MPLABxIDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
-- [STM32CudeIDE](https://www.st.com/en/development-tools/stm32cubeide.html#st-get-software)
+- [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html#st-get-software)
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [Proteus](https://getintopc.com/softwares/electrical-engineering/proteus-professional-2022-free-download/)
 - [Logic Analyser](https://www.saleae.com/downloads/)
@@ -76,7 +76,7 @@ Below are the softwares necessary for your projects. Download the Setup for the 
 - [BitBucket](https://www.youtube.com/watch?v=1tC6Z57AOkY)
 - [CodeBlocks](https://www.youtube.com/watch?v=S9NhsWepfOM)
 - [MPLABxIDE](https://youtu.be/c5AEypiwplE)
-- [STM32CudeIDE](https://www.youtube.com/watch?v=qy03y_L-fgA)
+- [STM32CubeIDE](https://www.youtube.com/watch?v=qy03y_L-fgA)
 - [Arduino IDE](https://www.youtube.com/watch?v=qRkQzBWmLkc)
 - [Proteus](https://www.youtube.com/watch?v=hCnQaCcYEJA)
 - [Logic Analyser](https://youtu.be/NU_E6sH6PcY)
@@ -100,7 +100,7 @@ These Softwares are used by the following companies:
 ```bash
     * MPLABxIDE
     * Proteus
-    * STM32CudeIDE
+    * STM32CubeIDE
     * Docklight
     * Logic Analyser
 ```    
