@@ -29,6 +29,7 @@ Below are the softwares necessary for your projects. Download the Setup for the 
     -- JIRA
     -- BitBucket
     -- CodeBlocks
+    -- VScode
     -- MPLAB x IDE
     -- STM32CubeIDE
     -- Arduino IDE
@@ -56,6 +57,7 @@ Below are the softwares necessary for your projects. Download the Setup for the 
 - [JIRA](https://www.atlassian.com/software/jira)
 - [BitBucket](https://bitbucket.org/product)
 - [CodeBlocks](https://www.codeblocks.org/downloads/)
+- [VScode](https://code.visualstudio.com/)
 - [MPLABxIDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html#st-get-software)
 - [Arduino IDE](https://www.arduino.cc/en/software)
@@ -75,6 +77,7 @@ Below are the softwares necessary for your projects. Download the Setup for the 
 - [JIRA](https://youtu.be/aP7W7zNTM2I)
 - [BitBucket](https://www.youtube.com/watch?v=1tC6Z57AOkY)
 - [CodeBlocks](https://www.youtube.com/watch?v=S9NhsWepfOM)
+- [VScode](https://www.youtube.com/watch?v=KYxLEDF6kjs)
 - [MPLABxIDE](https://youtu.be/c5AEypiwplE)
 - [STM32CubeIDE](https://www.youtube.com/watch?v=qy03y_L-fgA)
 - [Arduino IDE](https://www.youtube.com/watch?v=qRkQzBWmLkc)
