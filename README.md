@@ -39,6 +39,7 @@ Below are the softwares necessary for your projects. Download the Setup for the 
     -- SimcomSPT Tool
     -- Pickit2
     -- .NET FRAMEWORK   (only for Pickit2)
+    -- CP210x USB to UART Bridge driver
 
 
 #### For Hardware department:
@@ -69,6 +70,7 @@ Below are the softwares necessary for your projects. Download the Setup for the 
 - [OrCAD Capture](https://downloadly.net/2020/06/779/03/orcad/20/?#/779-cadence-172305012514.html)
 - [Pickit2](https://www.microchip.com/en-us/development-tool/pg164120#Software)
 - [.NET FRAMEWORK](https://www.microsoft.com/en-us/download/details.aspx?id=6041)
+- [CP210x USB to UART Bridge driver](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 
 
 ## Installation Videos
@@ -87,6 +89,8 @@ Below are the softwares necessary for your projects. Download the Setup for the 
 - [SimcomSPT]()
 - [Microchip Studio](https://www.youtube.com/watch?v=kOJtesK3a_M)
 - [OrCAD Capture](https://youtu.be/VSK9V0cSXp0)
+- [CP210x USB to UART Bridge driver](https://youtu.be/r_eMEXvt0v0?si=BtWXZH9bPmX5UMZg)
+
 
 #### NOTE: 
 * For Microchip Studio keep the checkbox by default
