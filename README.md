@@ -103,6 +103,10 @@ Below are the **software tools necessary** for your projects.
 
 ---
 
+### 📘 STM32 Guidebook
+Download here:  
+➡️ [STM32_GUIDEBOOK.zip](https://github.com/ArkHunt26/WelcomeKit/raw/resources/STM32%20Guidebook.zip)
+
 ## Used By
 
 These tools are used by the following companies:  
